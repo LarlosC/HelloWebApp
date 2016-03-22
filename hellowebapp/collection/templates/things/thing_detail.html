@@ -1,0 +1,9 @@
+{% extends 'layouts/base.html' %}
+{% load staticfiles %}
+{% block title %}{{ thing.name }} - {{ block.super }}{% endblock %}
+{% block content %}
+  <div class="container">
+        <h2>{{ thing.name }}</h2>
+        <p>{{ thing.description }}</p>
+  </div>
+{% endblock %}

@@ -21,8 +21,10 @@
         </nav>
     </header>
     <hr>
-    {% block content %}{% endblock %}
+    <article class="container">
+      {% block content %}{% endblock %}
+      {% block footer %}{% endblock %}
+    </article>
     <hr>
-    {% block footer %}{% endblock %}
   </body>
 </html>
