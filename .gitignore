@@ -1,4 +1,7 @@
 hellowebapp/collection/__init__.py
+hellowebapp/collection/__pycache__
 hellowebapp/collection/migrations/__init__.py
+hellowebapp/collection/migrations/__pycache__
 hellowebapp/hellowebapp/__init__.py
+hellowebapp/hellowebapp/__pycache__
 venv/
