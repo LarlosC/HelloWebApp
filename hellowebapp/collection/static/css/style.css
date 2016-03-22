@@ -12,10 +12,20 @@ nav ul > li {
   margin: auto 3px;;
 }
 
-header h1:hover, li > a:hover {
+header {
+  margin-top: -5%;
+  background-color: white;
+  color: lightblue;
+}
+
+li > a:hover, p:hover {
   color: pink;
   text-decoration: none;
   background-color: white;
   padding: 2px;
-  width: 35%;
+  margin-right: 10px;
+}
+
+hr {
+  border: 1px solid white
 }
