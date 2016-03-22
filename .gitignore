@@ -5,3 +5,4 @@ hellowebapp/collection/migrations/__pycache__
 hellowebapp/hellowebapp/__init__.py
 hellowebapp/hellowebapp/__pycache__
 venv/
+.gitignore
