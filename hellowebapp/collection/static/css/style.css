@@ -2,5 +2,20 @@ body {
   background-color: lightblue;
   color: white;
   font-size: 100%;
-  font-family: sans-serif;
+}
+
+nav ul > li {
+  display: inline-block;
+  text-decoration: underline;
+  float: left;
+  font-weight: bold;
+  margin: auto 3px;;
+}
+
+header h1:hover, li > a:hover {
+  color: pink;
+  text-decoration: none;
+  background-color: white;
+  padding: 2px;
+  width: 35%;
 }
