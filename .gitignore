@@ -6,3 +6,5 @@ hellowebapp/hellowebapp/__init__.py
 hellowebapp/hellowebapp/__pycache__
 venv/
 .gitignore
+hellowebapp/db.sqlite3
+hellowebapp/manage.py

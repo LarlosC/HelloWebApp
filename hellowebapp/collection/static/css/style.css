@@ -30,3 +30,18 @@ hr {
 p {
   margin: 0 5%;;
 }
+
+textarea, input {
+  color: black;
+}
+
+button {
+  background-color: white;
+  color: pink;
+  margin-left: 5%;
+}
+
+label {
+  display: block;
+  margin: 2px 0;
+}
